@@ -3,6 +3,8 @@ title: "Potensi Game Indie Lokal Indonesia"
 date: "2026-08-18"
 category: "Game"
 excerpt: "Mengenal perkembangan game indie buatan developer lokal Indonesia, tantangan yang dihadapi, serta peran komunitas."
+meta_title: "Potensi Game Indie Lokal Indonesia"
+meta_description: "Game indie lokal Indonesia kian bersinar lewat cerita dan budaya khas Nusantara, meski menghadapi keterbatasan dana, berkat dukungan komunitas dan publik."
 tags: ["game indie", "developer lokal", "industri game"]
 ---
 

@@ -3,6 +3,8 @@ title: "Perkembangan Esports di Indonesia"
 date: "2026-08-18"
 category: "Game"
 excerpt: "Menelusuri pertumbuhan ekosistem esports di Indonesia, dari komunitas, turnamen, hingga peluang karier bagi pemain muda."
+meta_title: "Perkembangan Esports di Indonesia"
+meta_description: "Esports Indonesia tumbuh dari komunitas kecil menjadi industri profesional dengan turnamen besar dan peluang karier baru bagi pemain muda berbakat."
 tags: ["esports", "olahraga elektronik", "gaming indonesia"]
 ---
 

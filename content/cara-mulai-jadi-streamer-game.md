@@ -3,6 +3,8 @@ title: "Cara Mulai Jadi Streamer Game"
 date: "2026-08-19"
 category: "Game"
 excerpt: "Langkah awal menjadi streamer game dari memilih perangkat, menentukan konten, hingga membangun audiens secara konsisten."
+meta_title: "Cara Mulai Jadi Streamer Game"
+meta_description: "Mulai karier streamer game dari langkah awal: siapkan perangkat, tentukan konten, jadwalkan siaran rutin, dan bangun audiens setia secara konsisten."
 tags: ["streamer", "gaming indonesia", "tips gaming", "komunitas"]
 ---
 

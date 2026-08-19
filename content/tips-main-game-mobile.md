@@ -3,6 +3,8 @@ title: "Tips Meningkatkan Performa Main Game Mobile"
 date: "2026-08-18"
 category: "Game"
 excerpt: "Cara mengoptimalkan perangkat dan kebiasaan bermain agar game mobile berjalan lebih lancar dan nyaman."
+meta_title: "Tips Meningkatkan Performa Main Game Mobile"
+meta_description: "Tingkatkan performa game mobile dengan mengoptimalkan pengaturan perangkat, menjaga kebiasaan bermain, dan merawat baterai agar pengalaman bermain lancar."
 tags: ["tips gaming", "performa game", "game mobile"]
 ---
 

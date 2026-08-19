@@ -3,6 +3,8 @@ title: "Memilih Komputer untuk Gaming"
 date: "2026-08-19"
 category: "Game"
 excerpt: "Panduan memilih komputer gaming yang sesuai kebutuhan, dari kartu grafis, prosesor, hingga anggaran yang realistis."
+meta_title: "Memilih Komputer untuk Gaming"
+meta_description: "Pilih komputer gaming sesuai kebutuhan dengan memperhatikan GPU, prosesor, RAM, dan SSD, lalu sesuaikan dengan anggaran agar performa tetap optimal."
 tags: ["panduan game", "performa game", "tips gaming", "gaming indonesia"]
 ---
 

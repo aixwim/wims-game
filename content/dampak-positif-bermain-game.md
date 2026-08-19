@@ -3,6 +3,8 @@ title: "Dampak Positif Bermain Game"
 date: "2026-08-19"
 category: "Game"
 excerpt: "Mengulik manfaat bermain game bagi otak dan kesehatan mental, dari melatih fokus hingga membangun keterampilan sosial."
+meta_title: "Dampak Positif Bermain Game"
+meta_description: "Bermain game ternyata melatih kemampuan berpikir, koordinasi, keterampilan sosial, hingga relaksasi, asalkan porsinya bijak dan seimbang."
 tags: ["gaming indonesia", "komunitas", "perkenalan", "tips gaming"]
 ---
 

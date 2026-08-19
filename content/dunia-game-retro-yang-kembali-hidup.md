@@ -3,6 +3,8 @@ title: "Dunia Game Retro yang Kembali Hidup"
 date: "2026-08-19"
 category: "Game"
 excerpt: "Mengapa game retro kembali populer di kalangan pemain modern dan bagaimana nostalgia menjadi kekuatan besar industri game."
+meta_title: "Dunia Game Retro yang Kembali Hidup"
+meta_description: "Game retro kembali populer berkat nostalgia dan kesederhanaan, kini mudah dimainkan lewat emulator dan platform digital, tetap menjadi warisan yang hidup."
 tags: ["game retro", "game indie", "komunitas", "industri game"]
 ---
 

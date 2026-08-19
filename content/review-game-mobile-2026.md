@@ -3,6 +3,8 @@ title: "Panduan Memilih Game Mobile Terbaik untuk Pemula"
 date: "2026-08-18"
 category: "Game"
 excerpt: "Tips memilih game mobile terbaik di tahun 2026 berdasarkan genre, spesifikasi perangkat, hingga waktu bermain Anda."
+meta_title: "Panduan Memilih Game Mobile Terbaik untuk Pemula"
+meta_description: "Pilih game mobile terbaik dengan menyesuaikan genre, spesifikasi perangkat, waktu luang, dan budget agar bermain game tetap sehat dan menyenangkan."
 tags: ["game mobile", "panduan game", "mobile gaming"]
 ---
 

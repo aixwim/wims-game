@@ -3,6 +3,8 @@ title: "Turnamen Game Komunitas Lokal"
 date: "2026-08-19"
 category: "Game"
 excerpt: "Peran turnamen game komunitas lokal dalam menumbuhkan ekosistem esports dan membuka peluang bagi pemain berbakat di daerah."
+meta_title: "Turnamen Game Komunitas Lokal"
+meta_description: "Turnamen game komunitas lokal menjadi pintu masuk dunia esports, mempererat komunitas, dan membuka peluang bagi pemain berbakat di berbagai daerah."
 tags: ["komunitas", "esports", "gaming indonesia", "olahraga elektronik"]
 ---
 
